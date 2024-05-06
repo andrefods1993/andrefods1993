@@ -4,6 +4,7 @@
 
 
 ![alt text](line.png)
+
 ## Sobre mim <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Nerd%20Face.png?raw=true" wigth="28" height="28">
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Olá! Meu nome é André Filipe e sou Desenvolvedor Full Stack. <br />
@@ -14,6 +15,8 @@
 
 <br>
 
+![alt text](line.png)
+
 ## Skills <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png?raw=true" wigth="28" height="28">
 
 <div align="center">
@@ -23,8 +26,6 @@
 
 <br>
 
-![alt text](line.png)
-
 <br>
 
 <div align="center">
@@ -32,6 +33,10 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andrefods1993&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrefods1993&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0"/>
 </div>
+
+<br>
+
+![alt text](line.png)
 
 ### Obrigado pela visita! <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Partying%20Face.png?raw=true" wigth="28" height="28">
 
